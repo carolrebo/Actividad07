@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+.bg{
+	background-image: url("images/bg.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	margin-top: -20px;
+}
+
+
+
+.texto{
+	font-family: "Roboto", sans-serif;
+	color: #fff;
+	text-align: center;
+}
+
+.texto2{
+	font-family: "Roboto", sans-serif;
+	color: #000;
+	text-align: center;
+}
+
+.centrado{
+	text-align: center;
+}
+.navbar{
+	position: fixed;
+	border-radius: none !important;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
